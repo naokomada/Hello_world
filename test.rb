@@ -1,4 +1,2 @@
 
 puts "tekito"
-
-puts "koremo"
