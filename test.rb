@@ -1,0 +1,4 @@
+
+puts "tekito"
+
+puts "koremo"
